@@ -1,0 +1,13 @@
+
+
+PL/SQL:
+
+PL/SQL, which stands for Procedural Language/Structured Query Language, is a powerful extension of SQL that allows for procedural programming within the Oracle database environment. 
+It combines the data manipulation capabilities of SQL with procedural constructs like loops, conditional statements, and variables, enabling developers to create robust and complex applications directly within the database.
+
+
+TTD:
+
+Test-Driven Development (TDD) is a software development process where tests are written before the actual code. 
+This approach involves writing a failing test, then writing the minimal amount of code to pass that test, and finally refactoring the code to improve its structure and maintainability. 
+This cycle is often referred to as Red-Green-Refactor. 
