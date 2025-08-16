@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+
+
+.col {
+  width: 30%;
+  padding: 10px;
+  border-right: 5px solid green;
+}
+
+.col2 {
+  width: 30%;
+  padding: 10px;
+}
