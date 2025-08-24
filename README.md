@@ -23,7 +23,7 @@ The exercises are organized week by week, covering various concepts in **Java an
 - **Spring Boot**
 - **JUnit**
 - **HTML, CSS, JavaScript**
-- **React** (if included later)
+- **React**
 
 ---
 
