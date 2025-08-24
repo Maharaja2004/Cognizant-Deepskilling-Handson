@@ -8,7 +8,7 @@ The exercises are organized week by week, covering various concepts in **Java an
 ## 📂 Folder Structure
 
 - **Week-1** → Design Patterns and Principles, Data Structures and Algorithims 
-- **Week-2** → TTD and Logging Frameworks  
+- **Week-2** → TDD and Logging Frameworks  
 - **Week-3** → Spring Core and Maven  
 - **Week-4** → Spring Boot and REST 
 - **Week-5** → Microservices  
